@@ -1,12 +1,12 @@
-// let score = false;
+let score = false;
 
-// console.log(typeof score); // number
-// console.log(typeof (score)); // number
+console.log(typeof score); // number
+console.log(typeof (score)); // number
 // // both are same
 
-// let valueInNumber = Number(score); // convert string to number
-// console.log(typeof valueInNumber); // string)
-// console.log(valueInNumber); // 
+let valueInNumber = Number(score); // convert string to number
+console.log(typeof valueInNumber); // string)
+console.log(valueInNumber); // 
 
 // 33 => "33"
 // true => "true"
